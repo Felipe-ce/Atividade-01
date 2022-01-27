@@ -21,4 +21,5 @@ frutas.shift("jambo")
 console.log(frutas[0])
 
 // Utilize um método para organizar em ordem crescente o seguinte array:
-// let numbers = [7,5,6,3,8,9,2,1,4]
+let numbers = [7,5,6,3,8,9,2,1,4]
+console.log(numbers.sort())
